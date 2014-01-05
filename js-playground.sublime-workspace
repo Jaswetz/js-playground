@@ -1,0 +1,2072 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"new",
+				"newScriptElement"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"update",
+				"updateSales"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"comm",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"dark",
+				"darken	darken"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"ba",
+				"base-spacing-unit"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"style",
+				"styleguide"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"calc",
+				"calc-em	calc-em"
+			],
+			[
+				"base",
+				"base-spacing-unit"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"about_",
+				"about_start"
+			],
+			[
+				"trans",
+				"trans	transparentize"
+			],
+			[
+				"about",
+				"about_info"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"vis",
+				"visible"
+			],
+			[
+				"vet",
+				"vertical-align"
+			],
+			[
+				"bord",
+				"border	border"
+			],
+			[
+				"comm-s",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"comm-se",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"comme",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"cmnt",
+				"cmnt head	comment-head"
+			],
+			[
+				"slider",
+				"sliderGallery"
+			],
+			[
+				"webkit",
+				"webkitTransform"
+			],
+			[
+				"webkitTra",
+				"webkitTransition"
+			],
+			[
+				"image",
+				"imageStrip"
+			],
+			[
+				"slide",
+				"slideGallery"
+			],
+			[
+				"ani",
+				"animationSpeed"
+			],
+			[
+				"webki",
+				"webkitTransform"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"func",
+				"func  (variable)"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"r",
+				"r	right"
+			],
+			[
+				"com",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"commen",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"cap",
+				"capitalize"
+			],
+			[
+				"rgba",
+				"rgb(  (value)"
+			],
+			[
+				"tsh",
+				"tsh	text-shadow: ${1:hoff} ${2:voff} ${3:blur} ${4:#000};"
+			],
+			[
+				"comment",
+				"comment-add"
+			],
+			[
+				"searc",
+				"search-results"
+			],
+			[
+				"bxsh",
+				"bxsh	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"pos",
+				"pos	position: ${1:relative};"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tra",
+				"trailer	trailer"
+			],
+			[
+				"tr",
+				"trailer	trailer"
+			],
+			[
+				"gray",
+				"grayDark"
+			],
+			[
+				"tran",
+				"trans	transparentize"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border	border"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"sha",
+				"shadow	shadow"
+			],
+			[
+				"cal",
+				"calc-em	calc-em"
+			],
+			[
+				"form",
+				"formClr"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"cmn",
+				"cmnt head	comment-head"
+			],
+			[
+				"a",
+				"after"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/index.liquid",
+			"settings":
+			{
+				"buffer_size": 198,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/layouts/layout.liquid",
+			"settings":
+			{
+				"buffer_size": 425,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/includes/header.liquid",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/gum.liquid",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 135.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"csscom",
+				"Sort via CSScomb"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"deco",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"tid",
+				"TidyHTML"
+			],
+			[
+				"dec",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"decor",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"snippet: bas",
+				"Snippet: basic-unit"
+			],
+			[
+				"bra",
+				"Bracket Highlighter: Select Bracket Content"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jasonds/Sites/tutorials/js-playground/.gitignore",
+		"/Users/jasonds/Sites/tutorials/HTML5 Head First/gumball/assets/css/app.css",
+		"/Users/jasonds/Sites/tutorials/HTML5 Head First/gumball/templates/includes/header.liquid",
+		"/Users/jasonds/Sites/tutorials/HTML5 Head First/hfhtml5/chapter6/mightygumball.html",
+		"/Users/jasonds/Sites/tutorials/HTML5 Head First/hfhtml5/chapter6/gumball.html",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/5_components/_search-sidebar.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/js/app.js",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/js/main.js",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/5_components/_nav.scss",
+		"/Users/jasonds/Library/Application Support/Sublime Text 2/Packages/User/snippets/html/module.sublime-snippet",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/2_generic/_helper.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/6_layouts/_layouts.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/partials/service-widget.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/home.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/search.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/stock.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/layouts/master.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/5_components/_service-widgets.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/index.html",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/header.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/4_templates/_clearfix.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/main.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/sass/5_components/_header.scss",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/partials/masthead.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/app/views/partials/site-nav.blade.php",
+		"/Users/jasonds/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jasonds/Sites/clients/jerhel-vagrant/www/public/css/main.css",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/storage/views/0ab255bb1ce11c32cc4ed84bc51ef413",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/product.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/js/main.js",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/layouts/master.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/index.html",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/vendor/nikic/php-parser/lib/PHPParser/Template.php",
+		"/private/etc/apache2/users/jasonds.conf",
+		"/etc/apache2/users/jasonds.conf",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/search.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/services.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/partials/service-widget.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/4_templates/_island.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_media-query.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/partials/services.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_service-widgets.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/_app-settings.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/home.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/partials/site-nav.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/css/main.css",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/routes.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_nav.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_header.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/header.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/partials/masthead.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/main.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/1_vendors/_fonts.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/contact.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_forms.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_forms.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/4_templates/_buttons.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_helper.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/4_templates/_lists.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_contact.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_messages.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_about.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/6_layouts/_layouts.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/partials/about.blade.php",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/4_templates/_nav.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_search-sidebar.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_masthead.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_transitions.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/app/views/search.blade.php.orig",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/js/app.js",
+		"/Users/jasonds/Sites/personal/tumblr-blog/tumblr-example.js",
+		"/Users/jasonds/Sites/personal/tumblr-blog/tumblr-example.html",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/font/fontello.svg",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_lists.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_base-settings.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_responsive.scss",
+		"/Users/jasonds/Sites/personal/shapeslikewater/Gruntfile.js",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/pages/index.hbs",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/layouts/default.hbs",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/partials/header.hbs",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/pages/pages.hbs",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/pages.html",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/bower_components/modernizr/grunt.js",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/index.html",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/pages/page.hbs",
+		"/Users/jasonds/Sites/personal/shapeslikewater/app/templates/layouts/index.html",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_type.scss",
+		"/Users/jasonds/Sites/tutorials/Yeoman/Gruntfile.js",
+		"/Users/jasonds/Sites/tutorials/Yeoman/.tmp/styles/main.css",
+		"/Users/jasonds/Sites/tutorials/Assemble/Gruntfile.js",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/index.html",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/templates/pages/home.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/templates/layouts/default.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/templates/no-layout.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/assemble/test/templates/layouts/layout.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/assemble/test/templates/pages/page.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/assemble/test/templates/pages/no-layout.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/assemble/test/templates/layouts/default.md.hbs",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/styles/main.scss",
+		"/Users/jasonds/Sites/tutorials/grunt-styleguide/Gruntfile.js",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/grunt-styleguide/node_modules/styledocco/share/docs.css",
+		"/Users/jasonds/Sites/tutorials/grunt-styleguide/app/styles/main.css",
+		"/Users/jasonds/Sites/tutorials/Yeoman/node_modules/grunt-styleguide/node_modules/kss/lib/kss.js",
+		"/Users/jasonds/Sites/tutorials/styledocco/docs/base.html",
+		"/Users/jasonds/Sites/tutorials/styledocco/scss/main.scss",
+		"/Users/jasonds/Sites/tutorials/styledocco/scss/main.css",
+		"/Users/jasonds/Desktop/dexy-styleguide-demo-master/_footer.html",
+		"/Users/jasonds/Sites/tutorials/Yeoman/app/bower_components/modernizr/grunt.js",
+		"/Users/jasonds/Sites/tutorials/Yeoman/dist/index.html",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_calc-elem.scss",
+		"/Users/jasonds/Sites/tutorials/Head First-HTML5/index.html",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_headers.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_search.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_slider.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_buttons.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/1_vendors/_typeplate-headings.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/2_generic/_calc-em.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_service-section.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_reset.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_links.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/4_templates/_well.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_footer.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/6_layouts/_row.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/6_layouts/_container.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/5_components/_masthead-inner.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/6_layouts/_masthead.scss",
+		"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/sass/3_base/_p.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"model",
+			"handle",
+			"updateSales",
+			"sales",
+			"padding",
+			"ul-reset",
+			"find search-sidebar",
+			"lower",
+			"cf",
+			"\"buy\"",
+			"bod",
+			"<script>",
+			"find livereload",
+			"id=\"buy\"",
+			"search-sidebar",
+			"10.0.1.19",
+			"<script>document.write('<script src=\"http://",
+			"scrollOff",
+			"livereload",
+			"document.write",
+			"bod",
+			" ",
+			"service-section",
+			"input",
+			"search",
+			"white",
+			"max-width: $base-spacing-unit * 15;",
+			"service-widgets",
+			"UL",
+			"br",
+			"@import \"5_components/contact\";",
+			"twitter",
+			"icon",
+			"form",
+			"ff0000",
+			"ace500",
+			"site-nav",
+			"portrait",
+			"search.blade",
+			"extend",
+			"search-sidebar__mobile-btn",
+			"search-filters-title",
+			"down",
+			"img",
+			"max-width",
+			"@import \"5_components/search-sidebar\";",
+			"arrow",
+			"powderBoxes",
+			"compacts",
+			"li",
+			"category",
+			"padding",
+			"p",
+			"h4",
+			"dist",
+			"qunit",
+			"assemb",
+			"assemble",
+			"\"sr",
+			"keepalive",
+			"server",
+			"nav",
+			"Handlebars.compile",
+			"handlebars.compiler",
+			"bum",
+			"templates",
+			"top",
+			"styleguide",
+			"assemble",
+			"styi",
+			"sty",
+			"register",
+			"loadnpm",
+			"link",
+			"styleguide",
+			"loadNpm",
+			"compass",
+			"stylegui",
+			"styleguide",
+			"compass",
+			"styleguid",
+			"<%= yeoman.dist %>",
+			"styleguide",
+			"grunt-sty",
+			"assemble",
+			"options",
+			"npmtask",
+			"npmtasks",
+			"{{/is}}",
+			"@include('header",
+			".lt-ie9",
+			"box-sizing",
+			"2",
+			"ul-reset",
+			"reset",
+			"base",
+			".sb-search-input",
+			"div",
+			"upper",
+			"sizing",
+			"lighten",
+			"sizing",
+			"Learn Mo",
+			"Lear",
+			"1.5",
+			"half",
+			".875",
+			"1.125",
+			"calc-em",
+			"0",
+			"8",
+			"top",
+			"portrait",
+			"med-landscape",
+			"box-sizing",
+			"0",
+			"solid",
+			"$",
+			"51",
+			"respond-to",
+			"nav",
+			"@import \"5_components/footer\";",
+			"padding",
+			"unit",
+			"padding",
+			"margin",
+			"margin-top: $base-spacing-unit!important;",
+			"margin-top: $base-spacing-unit!important"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"med-portrait"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/index.liquid",
+					"settings":
+					{
+						"buffer_size": 198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/layouts/layout.liquid",
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/includes/header.liquid",
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/gum.liquid",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Liquid/Syntaxes/HTML Liquid.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gum",
+				"templates/gum.liquid"
+			],
+			[
+				"head",
+				"templates/includes/header.liquid"
+			],
+			[
+				"layou",
+				"templates/layouts/layout.liquid"
+			],
+			[
+				"inde",
+				"templates/index.liquid"
+			],
+			[
+				"header",
+				"templates/includes/header.liquid"
+			],
+			[
+				"js",
+				"assets/scripts/app.js"
+			],
+			[
+				"css",
+				"assets/css/app.css"
+			],
+			[
+				"liquid",
+				"templates/layouts/layout.liquid"
+			],
+			[
+				"product",
+				"app/views/product.blade.php"
+			],
+			[
+				"sidebar",
+				"public/sass/5_components/_search-sidebar.scss"
+			],
+			[
+				"main",
+				"public/sass/main.scss"
+			],
+			[
+				"slider",
+				"public/sass/5_components/_slider.scss"
+			],
+			[
+				"mastheade",
+				"app/views/partials/masthead.blade.php"
+			],
+			[
+				"main.js",
+				"public/js/main.js"
+			],
+			[
+				".js",
+				"public/js/app.js"
+			],
+			[
+				"nav.",
+				"app/views/partials/site-nav.blade.php"
+			],
+			[
+				"nav",
+				"public/sass/5_components/_nav.scss"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"service",
+				"public/sass/5_components/_service-widgets.scss"
+			],
+			[
+				"servic",
+				"app/views/partials/service-widget.blade.php"
+			],
+			[
+				"home",
+				"app/views/home.blade.php"
+			],
+			[
+				"clear",
+				"public/sass/4_templates/_clearfix.scss"
+			],
+			[
+				"clearf",
+				"public/sass/4_templates/_clearfix.scss"
+			],
+			[
+				"masth",
+				"app/views/partials/masthead.blade.php"
+			],
+			[
+				"helper",
+				"public/sass/2_generic/_helper.scss"
+			],
+			[
+				"search.",
+				"app/views/search.blade.php"
+			],
+			[
+				".blade",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"templ",
+				"vendor/nikic/php-parser/lib/PHPParser/Template.php"
+			],
+			[
+				"product.blad",
+				"app/views/product.blade.php"
+			],
+			[
+				"serv",
+				"public/sass/5_components/_services.scss"
+			],
+			[
+				"search",
+				"app/views/search.blade.php"
+			],
+			[
+				"trans",
+				"public/sass/2_generic/_transitions.scss"
+			],
+			[
+				"layout",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"sea",
+				"app/views/search.blade.php"
+			],
+			[
+				"services",
+				"app/views/services.blade.php"
+			],
+			[
+				"servi",
+				"public/sass/5_components/_services.scss"
+			],
+			[
+				"media",
+				"public/sass/2_generic/_media-query.scss"
+			],
+			[
+				"service-",
+				"public/sass/5_components/_service-widgets.scss"
+			],
+			[
+				"app",
+				"public/sass/_app-settings.scss"
+			],
+			[
+				"well",
+				"public/sass/4_templates/_well.scss"
+			],
+			[
+				"island",
+				"public/sass/4_templates/_island.scss"
+			],
+			[
+				"master",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"masthea",
+				"app/views/partials/masthead.blade.php"
+			],
+			[
+				"routes",
+				"app/routes.php"
+			],
+			[
+				"roout",
+				"vendor/laravel/framework/src/Illuminate/Routing/Route.php"
+			],
+			[
+				"conta",
+				"app/views/contact.blade.php"
+			],
+			[
+				"font",
+				"public/sass/1_vendors/_fonts.scss"
+			],
+			[
+				"contac",
+				"app/views/contact.blade.php"
+			],
+			[
+				"site-nav",
+				"app/views/partials/site-nav.blade.php"
+			],
+			[
+				"heade",
+				"app/views/header.blade.php"
+			],
+			[
+				"contact",
+				"public/sass/5_components/_contact.scss"
+			],
+			[
+				"forms",
+				"public/sass/3_base/_forms.scss"
+			],
+			[
+				"lay",
+				"public/sass/6_layouts/_layouts.scss"
+			],
+			[
+				"about",
+				"public/sass/5_components/_about.scss"
+			],
+			[
+				"rout",
+				"app/routes.php"
+			],
+			[
+				"la",
+				"public/sass/6_layouts/_layouts.scss"
+			],
+			[
+				"butto",
+				"public/sass/4_templates/_buttons.scss"
+			],
+			[
+				"help",
+				"public/sass/2_generic/_helper.scss"
+			],
+			[
+				"masthe",
+				"app/views/partials/masthead.blade.php"
+			],
+			[
+				"fonts",
+				"public/sass/1_vendors/_fonts.scss"
+			],
+			[
+				"lists",
+				"public/sass/4_templates/_lists.scss"
+			],
+			[
+				"",
+				"public/sass/5_components/_masthead.scss"
+			],
+			[
+				"list",
+				"public/sass/4_templates/_lists.scss"
+			],
+			[
+				"masthead",
+				"public/sass/5_components/_masthead.scss"
+			],
+			[
+				"setting",
+				"public/sass/_app-settings.scss"
+			],
+			[
+				"sideb",
+				"public/sass/5_components/_search-sidebar.scss"
+			],
+			[
+				"settin",
+				"public/sass/_app-settings.scss"
+			],
+			[
+				"base",
+				"public/sass/3_base/_base-settings.scss"
+			],
+			[
+				"med",
+				"public/sass/2_generic/_media-query.scss"
+			],
+			[
+				"respon",
+				"public/sass/2_generic/_responsive.scss"
+			],
+			[
+				"searc",
+				"app/views/search.blade.php"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"pages.h",
+				"templates/pages/pages.hbs"
+			],
+			[
+				"pages",
+				"pages.html"
+			],
+			[
+				"defaul",
+				"templates/layouts/default.hbs"
+			],
+			[
+				"sett",
+				"public/sass/_app-settings.scss"
+			],
+			[
+				"footer",
+				"public/sass/5_components/_footer.scss"
+			],
+			[
+				"4_templates/_na",
+				"public/sass/4_templates/_nav.scss"
+			],
+			[
+				"foot",
+				"views/footer.blade.php"
+			],
+			[
+				"ind",
+				"public/index.html"
+			],
+			[
+				"_headi",
+				"app/styles/3_base/_headings.scss"
+			],
+			[
+				"p.scss",
+				"app/styles/3_base/_p.scss"
+			],
+			[
+				"type",
+				"app/styles/3_base/_type.scss"
+			],
+			[
+				"calc",
+				"public/sass/2_generic/_calc-elem.scss"
+			],
+			[
+				"calce",
+				"public/sass/2_generic/_calc-elem.scss"
+			],
+			[
+				"reset",
+				"public/sass/3_base/_reset.scss"
+			],
+			[
+				"form",
+				"5_components/_forms.scss"
+			],
+			[
+				"in",
+				"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/index.html"
+			],
+			[
+				"for",
+				"5_components/_forms.scss"
+			],
+			[
+				"butt",
+				"4_templates/_buttons.scss"
+			],
+			[
+				"fon",
+				"1_vendors/_fonts.scss"
+			],
+			[
+				"wid",
+				"5_components/_service-widgets.scss"
+			],
+			[
+				"button",
+				"4_templates/_buttons.scss"
+			],
+			[
+				"ined",
+				"/Users/jasonds/Sites/clients/jerhel-on-laravel/public/index.html"
+			],
+			[
+				"hel",
+				"2_generic/_helper.scss"
+			],
+			[
+				"abou",
+				"5_components/_about.scss"
+			],
+			[
+				"slid",
+				"5_components/_slider.scss"
+			],
+			[
+				"ty",
+				"1_vendors/_typeplate-headings.scss"
+			],
+			[
+				"medi",
+				"2_generic/_media-query.scss"
+			],
+			[
+				"shado",
+				"2_generic/_shadows.scss"
+			],
+			[
+				"sli",
+				"5_components/_slider.scss"
+			],
+			[
+				"mast",
+				"5_components/_masthead.scss"
+			],
+			[
+				"respo",
+				"2_generic/_responsive.scss"
+			],
+			[
+				"abo",
+				"5_components/_about.scss"
+			],
+			[
+				"slide",
+				"5_components/_slider.scss"
+			],
+			[
+				"cont",
+				"6_layouts/_container.scss"
+			],
+			[
+				"row",
+				"6_layouts/_row.scss"
+			],
+			[
+				"headers",
+				"3_base/_headers.scss"
+			],
+			[
+				"p",
+				"3_base/_p.scss"
+			],
+			[
+				"link",
+				"3_base/_links.scss"
+			],
+			[
+				"transiti",
+				"public/sass/ui/_ui-transitions.scss"
+			],
+			[
+				"ui-we",
+				"public/sass/ui/_ui-well.scss"
+			],
+			[
+				"ui-",
+				"public/sass/ui/_ui-links.scss"
+			],
+			[
+				"colors",
+				"public/sass/ui/_ui-colors.scss"
+			],
+			[
+				"typ",
+				"public/sass/partials/_typeplate-headings.scss"
+			],
+			[
+				"wir",
+				"public/sass/_wireframe.scss"
+			],
+			[
+				"base-set",
+				"public/sass/_base-settings.scss"
+			],
+			[
+				"ui-co",
+				"public/sass/partials/_ui-colors.scss"
+			],
+			[
+				"ui",
+				"sass/partials/_ui-colors.scss"
+			],
+			[
+				"ui-links",
+				"sass/ui/_ui-links.scss"
+			],
+			[
+				"ui-lin",
+				"sass/ui/_ui-links.scss"
+			],
+			[
+				"sh",
+				"sass/_shame.scss"
+			],
+			[
+				"brand",
+				"sass/jerhel/_brand-well.scss"
+			],
+			[
+				"we",
+				"sass/objects/_well.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"jerh",
+				"/Users/jasonds/Sites/clients/jerhel.sublime-project"
+			],
+			[
+				"shape",
+				"/Users/jasonds/Sites/personal/shapeslikewater/shapes-like-water.sublime-project"
+			],
+			[
+				"jerhe",
+				"/Users/jasonds/Sites/clients/jerhel-redesign/jerhel.sublime-project"
+			],
+			[
+				"shap",
+				"/Users/jasonds/Sites/personal/shapeslikewater/shapes-like-water.sublime-project"
+			],
+			[
+				"sha",
+				"/Users/jasonds/Sites/personal/shapeslikewater/shapeslikewater.sublime-project"
+			],
+			[
+				"",
+				"/Users/jasonds/Sites/Intstrux/iNGSA-Pricing-for-Sales.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}
