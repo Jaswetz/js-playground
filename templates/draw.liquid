@@ -1,0 +1,15 @@
+{% block content %}
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="panel" id="panelCanvas">
+          <!-- <canvas id="lookwhatIdrew" width="600" height="200"></canvas> -->
+        </div>
+      </div>
+    </div>
+    <style>
+      canvas {
+        border: 1px solid black;
+      }
+    </style>
+    {{ "draw.js" | asset_url | script_tag }}
+{% endblock %}
