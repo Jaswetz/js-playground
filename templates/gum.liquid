@@ -2,7 +2,11 @@
     <div class="row">
       <div class="large-12 columns">
         <div class="panel">
+            <ul id="sales" class="pricing-table">
+              <li class="title">Gumball Sales</li>
+            </ul>
         </div>
       </div>
     </div>
+    {{ "gum.js" | asset_url | script_tag }}
 {% endblock %}
